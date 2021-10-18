@@ -1,0 +1,9 @@
+@charset "UTF-8";
+.fil0 {fill:white}
+.fil1 {fill:white;fill-rule:nonzero}
+.plane {
+      display: block;
+}
+#fil1{
+      transform: translate(50%);
+}
